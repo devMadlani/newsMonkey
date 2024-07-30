@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "T20 World Cup: India voice New York pitch concerns but ICC stands firm",
+      "description": "The International Cricket Council has no plans to move T20 World Cup matches out of New York despite concerns over poor pitches.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/ceddyd2yd7jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/c646/live/61a278c0-23c2-11ef-924f-b942d815f706.jpg",
+      "publishedAt": "2024-06-06T08:37:17.3421186Z",
+      "content": "The US is staging 16 of the 55 matches at the T20 World Cup, which it is co-hosting with the West Indies.\r\nThe pop-up stadium in New York has cost £24m ($32m) to construct and was built inside eight … [+1762 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Opinion: How this very English sport found a home in America",
+      "description": "As the Men’s T20 World Cup cricket tournament gets underway in New York, Ashish Ravinran writes on how this “more excitable older cousin” to baseball is increasingly taking root in America.",
+      "url": "https://www.cnn.com/2024/06/06/opinions/t20-cricket-world-cup-india-pakistan-new-york-ravinran/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2155613724.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-06T08:24:35Z",
+      "content": "Editors Note: Ashish Ravinran is a Singaporean-Indian writer and filmmaker based in New York City. His upcoming feature documentary, Chasing Cricket, follows the story of immigrant teens playing in a… [+7413 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
